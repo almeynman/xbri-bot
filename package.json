@@ -1,0 +1,9 @@
+{
+  "name": "xbri-bot",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^4.3.1"
+  }
+}
