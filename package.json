@@ -4,6 +4,7 @@
   "main": "app.js",
   "dependencies": {
     "botbuilder": "^3.8.4",
-    "restify": "^4.3.1"
+    "restify": "^4.3.1",
+    "uuid": "^3.1.0"
   }
 }
