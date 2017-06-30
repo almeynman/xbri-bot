@@ -72,6 +72,7 @@ bot.dialog("createTodo", [
 bot.dialog("listTodos", [
   session => {
     session.send(`Вот ваши задания:${session.userData.todos}`);
+    session.endDialog();
   }
 ]);
 
